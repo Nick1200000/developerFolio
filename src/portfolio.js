@@ -21,9 +21,10 @@ const illustration = {
 
 const greeting = {
   username: "Saad Pasta",
-  title: "Hi all, I'm ATANU BISWAS",
+  title: "Hi all, I'm NIKHIL KUMAR",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    // "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate **DevOps Engineer 🚀** with experience in building and automating infrastructure using **Docker, Kubernetes, Terraform, Ansible**, and other tools. Skilled in cloud platforms like **AWS**, CI/CD pipelines, and monitoring solutions like **Prometheus and Grafana**, ensuring seamless deployment and scalability."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -33,11 +34,11 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
+  github: "https://github.com/Nick1200000",
+  linkedin: "https://www.linkedin.com/in/nikhil-kumar-4bbb7a216/",
+  gmail: "nk7591772@gmail.com",
+  gitlab: "https://gitlab.com/Nick12000000",
+  facebook: "https://www.facebook.com/login/",
   medium: "https://medium.com/@saadpasta",
   stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -47,18 +48,39 @@ const socialMediaLinks = {
 
 // Skills Section
 
+// const skillsSection = {
+//   title: "What I do",
+//   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+//   skills: [
+//     emoji(
+//       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+//     ),
+//     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+//     emoji(
+//       "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+//     )
+//   ],
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "PASSIONATE DEVOPS ENGINEER WHO LOVES AUTOMATING AND SCALING SYSTEMS",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Design and implement highly scalable CI/CD pipelines for seamless software delivery"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Automate infrastructure deployment using tools like Terraform and Ansible"
+    ),
+    emoji(
+      "⚡ Container orchestration and management with Docker and Kubernetes"
+    ),
+    emoji(
+      "⚡ Monitor and optimize systems using tools like Prometheus and Grafana"
+    ),
+    emoji(
+      "⚡ Ensure application security with solutions like Trivy and SonarQube"
     )
   ],
+
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
