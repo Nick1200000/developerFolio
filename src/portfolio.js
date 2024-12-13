@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
+  username: "Nikhil Kumar",
   title: "Hi all, I'm NIKHIL KUMAR",
   subTitle: emoji(
     // "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
@@ -85,60 +85,116 @@ const skillsSection = {
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
+  // softwareSkills: [
+  //   {
+  //     skillName: "html-5",
+  //     fontAwesomeClassname: "fab fa-html5"
+  //   },
+  //   {
+  //     skillName: "css3",
+  //     fontAwesomeClassname: "fab fa-css3-alt"
+  //   },
+  //   {
+  //     skillName: "Python",
+  //     fontAwesomeClassname: "fab fa-python"
+  //   },
+  //   {
+  //     skillName: "JavaScript",
+  //     fontAwesomeClassname: "fab fa-js"
+  //   },
+  //   {
+  //     skillName: "reactjs",
+  //     fontAwesomeClassname: "fab fa-react"
+  //   },
+  //   {
+  //     skillName: "nodejs",
+  //     fontAwesomeClassname: "fab fa-node"
+  //   },
+  //   {
+  //     skillName: "swift",
+  //     fontAwesomeClassname: "fab fa-swift"
+  //   },
+  //   {
+  //     skillName: "npm",
+  //     fontAwesomeClassname: "fab fa-npm"
+  //   },
+  //   {
+  //     skillName: "sql-database",
+  //     fontAwesomeClassname: "fas fa-database"
+  //   },
+  //   {
+  //     skillName: "aws",
+  //     fontAwesomeClassname: "fab fa-aws"
+  //   },
+  //   {
+  //     skillName: "firebase",
+  //     fontAwesomeClassname: "fas fa-fire"
+  //   },
+  //   {
+  //     skillName: "python",
+  //     fontAwesomeClassname: "fab fa-python"
+  //   },
+  //   {
+  //     skillName: "docker",
+  //     fontAwesomeClassname: "fab fa-docker"
+  //   }
+  // ],
+
   softwareSkills: [
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
-  ],
+  {
+    skillName: "docker",
+    fontAwesomeClassname: "fab fa-docker"
+  },
+  {
+    skillName: "kubernetes",
+    fontAwesomeClassname: "fas fa-dharmachakra"
+  },
+  {
+    skillName: "terraform",
+    fontAwesomeClassname: "fas fa-code-branch"
+  },
+  {
+    skillName: "ansible",
+    fontAwesomeClassname: "fas fa-network-wired"
+  },
+  {
+    skillName: "aws",
+    fontAwesomeClassname: "fab fa-aws"
+  },
+  {
+    skillName: "linux",
+    fontAwesomeClassname: "fab fa-linux"
+  },
+  {
+    skillName: "jenkins",
+    fontAwesomeClassname: "fas fa-cogs"
+  },
+  {
+    skillName: "git",
+    fontAwesomeClassname: "fab fa-git-alt"
+  },
+  {
+    skillName: "prometheus",
+    fontAwesomeClassname: "fas fa-chart-line"
+  },
+  {
+    skillName: "grafana",
+    fontAwesomeClassname: "fas fa-chart-pie"
+  },
+  {
+    skillName: "python",
+    fontAwesomeClassname: "fab fa-python"
+  },
+  {
+    skillName: "shell-scripting",
+    fontAwesomeClassname: "fas fa-terminal"
+  },
+  {
+    skillName: "sonarqube",
+    fontAwesomeClassname: "fas fa-shield-alt"
+  }
+],
+
   display: true // Set false to hide this section, defaults to true
 };
 
